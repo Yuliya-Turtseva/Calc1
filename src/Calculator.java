@@ -8,7 +8,7 @@ public class Calculator {
         char operation = getOperation();
         double sn = input();
         double result = calc(fn, sn, operation);
-        System.out.println("Результат вычисления:" + result);
+        System.out.println("Результат" + result);
        // System.out.println("Результат вычисления:" + result);
     }
 
