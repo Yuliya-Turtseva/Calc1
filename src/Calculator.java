@@ -9,7 +9,7 @@ public class Calculator {
         double sn = input();
         double result = calc(fn, sn, operation);
         System.out.println("Результат вычисления:" + result);
-        System.out.println("Результат вычисления:" + result);
+       // System.out.println("Результат вычисления:" + result);
     }
 
     public static double input() {   /*ввод чисел*/
